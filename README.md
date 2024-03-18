@@ -5,6 +5,8 @@ Downloading each artifact is a better viewing experience than clicking and rende
 
 **Confluence - How to Install Plugins.pdf** - Exported from Confluence. Simple guide on how to install plugins
 
+**Expert Library Markdown Sample.jpg** - Screenshot of Visual Studio. Docs-as-Code sample written in Markdown for documentation embedded into SaaS platform. 
+
 **Expert Library YAML Sample.jpg** - Screenshot of Visual Studio. Categorized directory of documentation. 
 
 **XPort_DS_910-815b.pdf** - Functional specification/data sheet
